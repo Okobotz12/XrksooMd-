@@ -1,0 +1,39 @@
+{
+  "ownerNumber": [
+    "6285922404374@s.whatsapp.net",
+    "6285922404374@s.whatsapp.net",
+    "62859224043744@s.whatsapp.net"
+  ],
+  "ownerName": "Xrksoo",
+  "instagram": "https://instagram.com/Xrksoo",
+  "gcwa": "https://chat.whatsapp.com/GaPVVC23OpiL1DqjDl72Ha",
+  "botName": "Xcfess - Bot",
+  "footer": "© By Xrksoo",
+  "sessionName": "session",
+  "fotoDonasi": "./qris.jpg",
+  "saweria": "Ga Ada Bre:v",
+  "trakteer": "Ga Ada Juga Rek :v",
+  "pathimg": "https://telegra.ph/file/264d90bb230fb95771ac6.jpg",
+  "BotKey": "agilhasibuan",
+  "ZenzKey": "zenzkey_df0840cfd268",
+  "XznKey": "agilhasib",
+  "OpenAIKey": "kN47ustmlG",
+  "audio_di_bagian_menu": "./media/menu.mp3",
+  "audio_di_bagian_owner": "./media/owner.mp3",
+  "auto_welcomeMsg": false,
+  "auto_leaveMsg": false,
+  "antiViewOnce": false,
+  "grupOnly": false,
+  "antiDelete": false,
+  "autobio": false,
+  "anticall": true,
+  "autorespond": false,
+  "autoblok212": false,
+  "autoread": true,
+  "gamewaktu": 90,
+  "limitCount": 20,
+  "gcount": {
+    "prem": 1000,
+    "user": 15
+  }
+}

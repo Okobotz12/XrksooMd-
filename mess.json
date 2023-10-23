@@ -1,0 +1,12 @@
+{
+    "wait": "*Loanjing.......*",
+    "error": {
+        "Iv": "Link Eror",
+        "api": "Bot Don't Have Rest Fire! Please Report To Owner"
+    },
+    "OnlyGrup": "Only Group Chat",
+    "OnlyPM": "Only Private Chat",
+    "BotAdmin": "Bot Must Be Admin",
+    "OnlyOwner": "You Not My Owner! This Fiture Only Owner",
+    "OnlyPrem": "Only Premium User! If You Want Premium,Chat My Owner!"
+}
